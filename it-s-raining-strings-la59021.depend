@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1724966233 source:c:\users\legom\documents\code\repos\it-s-raining-strings-la59021\main.cpp
+	"Convo.hpp"
+
+1724967313 c:\users\legom\documents\code\repos\it-s-raining-strings-la59021\convo.hpp
+	<vector>
+	<iostream>
+
+1724965634 source:c:\users\legom\documents\code\repos\it-s-raining-strings-la59021\convo.cpp
+	<vector>
+	<cassert>
+	<iostream>
+	<algorithm>
+	"Convo.hpp"
+
